@@ -1,2 +1,4 @@
 Test file creation 2
 Added Changes to new branch
+Added changes from Child branch
+Added new line from main branch
