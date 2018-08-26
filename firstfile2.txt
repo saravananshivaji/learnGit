@@ -1,1 +1,2 @@
 Test file creation 2
+Added a new line
